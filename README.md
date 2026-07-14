@@ -1,4 +1,4 @@
-# agent-swarm-mesh
+# Event-Driven AI Agent Swarm Architecture
 
 Event-Driven Multi-Agent Swarm Architecture
 
